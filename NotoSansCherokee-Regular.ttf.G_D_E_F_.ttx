@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph=".notdef" class="1"/>
+      <ClassDef glyph="uni000D" class="1"/>
+      <ClassDef glyph="uni00A0" class="1"/>
+      <ClassDef glyph="uni13A0" class="1"/>
+      <ClassDef glyph="uni13A1" class="1"/>
+      <ClassDef glyph="uni13A2" class="1"/>
+      <ClassDef glyph="uni13A3" class="1"/>
+      <ClassDef glyph="uni13A4" class="1"/>
+      <ClassDef glyph="uni13A5" class="1"/>
+      <ClassDef glyph="uni13A6" class="1"/>
+      <ClassDef glyph="uni13A7" class="1"/>
+      <ClassDef glyph="uni13A8" class="1"/>
+      <ClassDef glyph="uni13A9" class="1"/>
+      <ClassDef glyph="uni13AA" class="1"/>
+      <ClassDef glyph="uni13AB" class="1"/>
+      <ClassDef glyph="uni13AC" class="1"/>
+      <ClassDef glyph="uni13AD" class="1"/>
+      <ClassDef glyph="uni13AE" class="1"/>
+      <ClassDef glyph="uni13AF" class="1"/>
+      <ClassDef glyph="uni13B0" class="1"/>
+      <ClassDef glyph="uni13B1" class="1"/>
+      <ClassDef glyph="uni13B2" class="1"/>
+      <ClassDef glyph="uni13B3" class="1"/>
+      <ClassDef glyph="uni13B4" class="1"/>
+      <ClassDef glyph="uni13B5" class="1"/>
+      <ClassDef glyph="uni13B6" class="1"/>
+      <ClassDef glyph="uni13B7" class="1"/>
+      <ClassDef glyph="uni13B8" class="1"/>
+      <ClassDef glyph="uni13B9" class="1"/>
+      <ClassDef glyph="uni13BA" class="1"/>
+      <ClassDef glyph="uni13BB" class="1"/>
+      <ClassDef glyph="uni13BC" class="1"/>
+      <ClassDef glyph="uni13BD" class="1"/>
+      <ClassDef glyph="uni13BE" class="1"/>
+      <ClassDef glyph="uni13BF" class="1"/>
+      <ClassDef glyph="uni13C0" class="1"/>
+      <ClassDef glyph="uni13C1" class="1"/>
+      <ClassDef glyph="uni13C2" class="1"/>
+      <ClassDef glyph="uni13C3" class="1"/>
+      <ClassDef glyph="uni13C4" class="1"/>
+      <ClassDef glyph="uni13C5" class="1"/>
+      <ClassDef glyph="uni13C6" class="1"/>
+      <ClassDef glyph="uni13C7" class="1"/>
+      <ClassDef glyph="uni13C8" class="1"/>
+      <ClassDef glyph="uni13C9" class="1"/>
+      <ClassDef glyph="uni13CA" class="1"/>
+      <ClassDef glyph="uni13CB" class="1"/>
+      <ClassDef glyph="uni13CC" class="1"/>
+      <ClassDef glyph="uni13CD" class="1"/>
+      <ClassDef glyph="uni13CE" class="1"/>
+      <ClassDef glyph="uni13CF" class="1"/>
+      <ClassDef glyph="uni13D0" class="1"/>
+      <ClassDef glyph="uni13D1" class="1"/>
+      <ClassDef glyph="uni13D2" class="1"/>
+      <ClassDef glyph="uni13D3" class="1"/>
+      <ClassDef glyph="uni13D4" class="1"/>
+      <ClassDef glyph="uni13D5" class="1"/>
+      <ClassDef glyph="uni13D6" class="1"/>
+      <ClassDef glyph="uni13D7" class="1"/>
+      <ClassDef glyph="uni13D8" class="1"/>
+      <ClassDef glyph="uni13D9" class="1"/>
+      <ClassDef glyph="uni13DA" class="1"/>
+      <ClassDef glyph="uni13DB" class="1"/>
+      <ClassDef glyph="uni13DC" class="1"/>
+      <ClassDef glyph="uni13DD" class="1"/>
+      <ClassDef glyph="uni13DE" class="1"/>
+      <ClassDef glyph="uni13DF" class="1"/>
+      <ClassDef glyph="uni13E0" class="1"/>
+      <ClassDef glyph="uni13E1" class="1"/>
+      <ClassDef glyph="uni13E2" class="1"/>
+      <ClassDef glyph="uni13E3" class="1"/>
+      <ClassDef glyph="uni13E4" class="1"/>
+      <ClassDef glyph="uni13E5" class="1"/>
+      <ClassDef glyph="uni13E6" class="1"/>
+      <ClassDef glyph="uni13E7" class="1"/>
+      <ClassDef glyph="uni13E8" class="1"/>
+      <ClassDef glyph="uni13E9" class="1"/>
+      <ClassDef glyph="uni13EA" class="1"/>
+      <ClassDef glyph="uni13EB" class="1"/>
+      <ClassDef glyph="uni13EC" class="1"/>
+      <ClassDef glyph="uni13ED" class="1"/>
+      <ClassDef glyph="uni13EE" class="1"/>
+      <ClassDef glyph="uni13EF" class="1"/>
+      <ClassDef glyph="uni13F0" class="1"/>
+      <ClassDef glyph="uni13F1" class="1"/>
+      <ClassDef glyph="uni13F2" class="1"/>
+      <ClassDef glyph="uni13F3" class="1"/>
+      <ClassDef glyph="uni13F4" class="1"/>
+      <ClassDef glyph="uniFEFF" class="1"/>
+    </GlyphClassDef>
+    <LigCaretList>
+      <Coverage Format="1">
+      </Coverage>
+      <!-- LigGlyphCount=0 -->
+    </LigCaretList>
+  </GDEF>
+
+</ttFont>

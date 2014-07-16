@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x13a0" name="uni13A0"/><!-- CHEROKEE LETTER A -->
+      <map code="0x13a1" name="uni13A1"/><!-- CHEROKEE LETTER E -->
+      <map code="0x13a2" name="uni13A2"/><!-- CHEROKEE LETTER I -->
+      <map code="0x13a3" name="uni13A3"/><!-- CHEROKEE LETTER O -->
+      <map code="0x13a4" name="uni13A4"/><!-- CHEROKEE LETTER U -->
+      <map code="0x13a5" name="uni13A5"/><!-- CHEROKEE LETTER V -->
+      <map code="0x13a6" name="uni13A6"/><!-- CHEROKEE LETTER GA -->
+      <map code="0x13a7" name="uni13A7"/><!-- CHEROKEE LETTER KA -->
+      <map code="0x13a8" name="uni13A8"/><!-- CHEROKEE LETTER GE -->
+      <map code="0x13a9" name="uni13A9"/><!-- CHEROKEE LETTER GI -->
+      <map code="0x13aa" name="uni13AA"/><!-- CHEROKEE LETTER GO -->
+      <map code="0x13ab" name="uni13AB"/><!-- CHEROKEE LETTER GU -->
+      <map code="0x13ac" name="uni13AC"/><!-- CHEROKEE LETTER GV -->
+      <map code="0x13ad" name="uni13AD"/><!-- CHEROKEE LETTER HA -->
+      <map code="0x13ae" name="uni13AE"/><!-- CHEROKEE LETTER HE -->
+      <map code="0x13af" name="uni13AF"/><!-- CHEROKEE LETTER HI -->
+      <map code="0x13b0" name="uni13B0"/><!-- CHEROKEE LETTER HO -->
+      <map code="0x13b1" name="uni13B1"/><!-- CHEROKEE LETTER HU -->
+      <map code="0x13b2" name="uni13B2"/><!-- CHEROKEE LETTER HV -->
+      <map code="0x13b3" name="uni13B3"/><!-- CHEROKEE LETTER LA -->
+      <map code="0x13b4" name="uni13B4"/><!-- CHEROKEE LETTER LE -->
+      <map code="0x13b5" name="uni13B5"/><!-- CHEROKEE LETTER LI -->
+      <map code="0x13b6" name="uni13B6"/><!-- CHEROKEE LETTER LO -->
+      <map code="0x13b7" name="uni13B7"/><!-- CHEROKEE LETTER LU -->
+      <map code="0x13b8" name="uni13B8"/><!-- CHEROKEE LETTER LV -->
+      <map code="0x13b9" name="uni13B9"/><!-- CHEROKEE LETTER MA -->
+      <map code="0x13ba" name="uni13BA"/><!-- CHEROKEE LETTER ME -->
+      <map code="0x13bb" name="uni13BB"/><!-- CHEROKEE LETTER MI -->
+      <map code="0x13bc" name="uni13BC"/><!-- CHEROKEE LETTER MO -->
+      <map code="0x13bd" name="uni13BD"/><!-- CHEROKEE LETTER MU -->
+      <map code="0x13be" name="uni13BE"/><!-- CHEROKEE LETTER NA -->
+      <map code="0x13bf" name="uni13BF"/><!-- CHEROKEE LETTER HNA -->
+      <map code="0x13c0" name="uni13C0"/><!-- CHEROKEE LETTER NAH -->
+      <map code="0x13c1" name="uni13C1"/><!-- CHEROKEE LETTER NE -->
+      <map code="0x13c2" name="uni13C2"/><!-- CHEROKEE LETTER NI -->
+      <map code="0x13c3" name="uni13C3"/><!-- CHEROKEE LETTER NO -->
+      <map code="0x13c4" name="uni13C4"/><!-- CHEROKEE LETTER NU -->
+      <map code="0x13c5" name="uni13C5"/><!-- CHEROKEE LETTER NV -->
+      <map code="0x13c6" name="uni13C6"/><!-- CHEROKEE LETTER QUA -->
+      <map code="0x13c7" name="uni13C7"/><!-- CHEROKEE LETTER QUE -->
+      <map code="0x13c8" name="uni13C8"/><!-- CHEROKEE LETTER QUI -->
+      <map code="0x13c9" name="uni13C9"/><!-- CHEROKEE LETTER QUO -->
+      <map code="0x13ca" name="uni13CA"/><!-- CHEROKEE LETTER QUU -->
+      <map code="0x13cb" name="uni13CB"/><!-- CHEROKEE LETTER QUV -->
+      <map code="0x13cc" name="uni13CC"/><!-- CHEROKEE LETTER SA -->
+      <map code="0x13cd" name="uni13CD"/><!-- CHEROKEE LETTER S -->
+      <map code="0x13ce" name="uni13CE"/><!-- CHEROKEE LETTER SE -->
+      <map code="0x13cf" name="uni13CF"/><!-- CHEROKEE LETTER SI -->
+      <map code="0x13d0" name="uni13D0"/><!-- CHEROKEE LETTER SO -->
+      <map code="0x13d1" name="uni13D1"/><!-- CHEROKEE LETTER SU -->
+      <map code="0x13d2" name="uni13D2"/><!-- CHEROKEE LETTER SV -->
+      <map code="0x13d3" name="uni13D3"/><!-- CHEROKEE LETTER DA -->
+      <map code="0x13d4" name="uni13D4"/><!-- CHEROKEE LETTER TA -->
+      <map code="0x13d5" name="uni13D5"/><!-- CHEROKEE LETTER DE -->
+      <map code="0x13d6" name="uni13D6"/><!-- CHEROKEE LETTER TE -->
+      <map code="0x13d7" name="uni13D7"/><!-- CHEROKEE LETTER DI -->
+      <map code="0x13d8" name="uni13D8"/><!-- CHEROKEE LETTER TI -->
+      <map code="0x13d9" name="uni13D9"/><!-- CHEROKEE LETTER DO -->
+      <map code="0x13da" name="uni13DA"/><!-- CHEROKEE LETTER DU -->
+      <map code="0x13db" name="uni13DB"/><!-- CHEROKEE LETTER DV -->
+      <map code="0x13dc" name="uni13DC"/><!-- CHEROKEE LETTER DLA -->
+      <map code="0x13dd" name="uni13DD"/><!-- CHEROKEE LETTER TLA -->
+      <map code="0x13de" name="uni13DE"/><!-- CHEROKEE LETTER TLE -->
+      <map code="0x13df" name="uni13DF"/><!-- CHEROKEE LETTER TLI -->
+      <map code="0x13e0" name="uni13E0"/><!-- CHEROKEE LETTER TLO -->
+      <map code="0x13e1" name="uni13E1"/><!-- CHEROKEE LETTER TLU -->
+      <map code="0x13e2" name="uni13E2"/><!-- CHEROKEE LETTER TLV -->
+      <map code="0x13e3" name="uni13E3"/><!-- CHEROKEE LETTER TSA -->
+      <map code="0x13e4" name="uni13E4"/><!-- CHEROKEE LETTER TSE -->
+      <map code="0x13e5" name="uni13E5"/><!-- CHEROKEE LETTER TSI -->
+      <map code="0x13e6" name="uni13E6"/><!-- CHEROKEE LETTER TSO -->
+      <map code="0x13e7" name="uni13E7"/><!-- CHEROKEE LETTER TSU -->
+      <map code="0x13e8" name="uni13E8"/><!-- CHEROKEE LETTER TSV -->
+      <map code="0x13e9" name="uni13E9"/><!-- CHEROKEE LETTER WA -->
+      <map code="0x13ea" name="uni13EA"/><!-- CHEROKEE LETTER WE -->
+      <map code="0x13eb" name="uni13EB"/><!-- CHEROKEE LETTER WI -->
+      <map code="0x13ec" name="uni13EC"/><!-- CHEROKEE LETTER WO -->
+      <map code="0x13ed" name="uni13ED"/><!-- CHEROKEE LETTER WU -->
+      <map code="0x13ee" name="uni13EE"/><!-- CHEROKEE LETTER WV -->
+      <map code="0x13ef" name="uni13EF"/><!-- CHEROKEE LETTER YA -->
+      <map code="0x13f0" name="uni13F0"/><!-- CHEROKEE LETTER YE -->
+      <map code="0x13f1" name="uni13F1"/><!-- CHEROKEE LETTER YI -->
+      <map code="0x13f2" name="uni13F2"/><!-- CHEROKEE LETTER YO -->
+      <map code="0x13f3" name="uni13F3"/><!-- CHEROKEE LETTER YU -->
+      <map code="0x13f4" name="uni13F4"/><!-- CHEROKEE LETTER YV -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
